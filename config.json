@@ -20,5 +20,70 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "본관": {
+      "style": "stone",
+      "wall": "#f2f4f5",
+      "glass": "#3d4a58",
+      "frame": "#e0e4e6",
+      "hip": true,
+      "roof": "#dfe3e6"
+    },
+    "체육대학": {
+      "style": "stone",
+      "wall": "#e6e4de",
+      "glass": "#4a5056",
+      "frame": "#d4d2cc"
+    },
+    "자연과학대학": {
+      "style": "brick",
+      "wall": "#955e3d",
+      "glass": "#2f3438",
+      "frame": "#e2e0d8"
+    },
+    "중앙도서관": {
+      "style": "ribbon",
+      "wall": "#e6e6e4",
+      "glass": "#4a6a86",
+      "frame": "#c9cbcc"
+    },
+    "사회대 사범대": {
+      "style": "stone",
+      "wall": "#eef0ee",
+      "glass": "#4a5660",
+      "frame": "#dcdedc"
+    },
+    "글로벌하우스": {
+      "style": "dorm",
+      "wall": "#e2e2e0",
+      "glass": "#3f6e78",
+      "frame": "#9a8a4a"
+    },
+    "조선이공대학 2호관": {
+      "style": "stone",
+      "wall": "#e8e8e6",
+      "glass": "#5a6670",
+      "frame": "#d0d2d2"
+    },
+    "해오름관": {
+      "style": "glass",
+      "wall": "#e9eaea",
+      "glass": "#2f6a5e",
+      "frame": "#c8cacb"
+    },
+    "공과대학 2호관": {
+      "style": "brick",
+      "wall": "#8c6466",
+      "glass": "#3a4a5a",
+      "frame": "#d8d4d0"
+    },
+    "IT융합대학": {
+      "style": "ribbon",
+      "wall": "#e6eaec",
+      "glass": "#6a8ea4",
+      "frame": "#c9d0d4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
