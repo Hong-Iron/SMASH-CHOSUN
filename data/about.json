@@ -1,0 +1,34 @@
+{
+ "region": "광주 동구 서석동",
+ "nameEn": "Chosun University",
+ "added": "2026-10-17",
+ "rank": 17,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "CST",
+   "campus": "조선이공대학교",
+   "km": 0.2
+  },
+  {
+   "code": "JNU-HAKDONG",
+   "campus": "전남대학교 학동캠퍼스",
+   "km": 0.6
+  },
+  {
+   "code": "CCN",
+   "campus": "기독간호대학교",
+   "km": 1.3
+  },
+  {
+   "code": "GNUE",
+   "campus": "광주교육대학교",
+   "km": 2.6
+  },
+  {
+   "code": "DONGKANG",
+   "campus": "동강대학교",
+   "km": 3.1
+  }
+ ]
+}
